@@ -1,0 +1,608 @@
+# <span id="bookmark0"></span><span style="font-weight:bold;"><span id="bookmark1"></span>Fallacies Regarding Free Will</span>
+
+Philosophical controversy regarding the freedom of the will has been
+astir since the dawn of the subject. The freedom at issue calls for an
+agent’s being in conscious control of what they do in ways that are at
+odds with the prospect that their thoughts and intentions could be
+bypassed in an adequate explanation of their actions. The contradictory
+position—determinism—holds instead that agent control is an illusion and
+that the processes of nature settle matters of action without regard to
+the substance of the agent’s mental operations.
+
+Despite the elaborate controversies that have prevailed on this topic
+over the centuries, several fallacies and flaws of thought have been
+able to gain a tenacious and seemingly permanent hold on the way in
+which people address the issues. It is constructive to consider some
+salient examples.
+
+<span style="font-weight:bold;">Fallacy Number One</span>
+
+The first fallacy inheres in an idea that Daniel Dennett has articulated
+as follows:
+
+If determinism is true, then our every deed and decision is the
+inexorable outcome, it seems, of the sum of physical forces acting at
+the moment; which in turn is the inexorable outcome of the forces acting
+an instant before, <span style="font-style:italic;">and so on to the
+beginning of time</span>....\[Thus\]—If determinism is true, then our
+acts are the
+
+consequences of the laws of nature and events in the remote past. But it
+is not up to us what went on before we were born, and neither is it up
+to us what the laws of nature are. Therefore the consequences of these
+things (including our present acts) are not up to us.<sup>1</sup>
+
+It is exactly in this transit from “<span style="font-style:italic;">and
+so on</span>” to “<span style="font-style:italic;">the beginning of
+time</span>” that constitutes what I shall call the Zenonic fallacy. It
+overlooks the prospect of backwards <span
+style="font-style:italic;">convergence</span> as illustrated in the
+following diagram:
+
+<span style="font-style:italic;">O</span>
+
+<span style="font-style:italic;">X</span> <sup>t</sup>3 <sup>t</sup>2
+   <sup>t</sup>l           <sup>t</sup>0
+
+Here <span style="font-style:italic;">t</span><sub>i+1</sub> stands
+halfway between <span style="font-style:italic;">t</span><sub>i</sub>
+and <span style="font-style:italic;">X</span>.
+
+Consider an occurrence <span style="font-style:italic;">O</span> at
+t<sub>0</sub>, putatively the product of a free decision at <span
+style="font-style:italic;">X</span>. To explain it in terms of what
+precedes, we certainly do not need to go back to “the beginning of
+time.”
+
+The failing at issue here is substantially that of Zeno’s notorious
+paradox of Achilles and the tortoise. Both alike involve a fallacy in
+overlooking the circumstance that, thanks to convergence, an infinity of
+steps can be taken in a finite distance, provided merely that the steps
+get progressively shorter. Once it is granted that, even if a cause must
+precede its effect, there is no specificative timespan, however small,
+by which it need do so, the causal regression argument against free will
+looses all of its traction.
+
+With Zeno, Achilles never catches the tortoise because his progress must
+go on and on before the endpoint is reached. In the present reasoning,
+explanation will never reach an initiating choice point because the
+regress goes on and on. But in both cases, the idea of a convergence
+that terminated the infinite process at issue after a finite timespan is
+simply ignored.
+
+Such a perspective leaves the principle of causality wholly compatible
+with freedom because that act and all its causal antecedents remain
+causally explicable.
+
+<span style="font-weight:bold;">Fallacy Number Two</span>
+
+<span style="font-style:italic;">Human choices are generally predictable
+and predictability is at odds with free will.</span>
+
+The reality of it is that predictability is simply no problem. If I
+offer you the choice between a hundred dollar bill and a needless root
+canal operation, there is no difficulty in predicting which you will
+choose. But your choice is nevertheless perfectly free.
+
+What matters for freedom is not predictability as such, but rather the
+basis of prediction. If and when the prediction rests on the agent’s
+tastes, dispositions, preferences, and so forth, then that decision is
+free.
+
+“But we do not choose our tastes, dispositions, and so on.” Perfectly
+true, but also quite beside the point. The objection rests on an
+erroneous premise: “Choices are free only if their motives are freely
+chosen.” But this requirement is inappropriate and immaterial. For by
+their very nature, motives, tastes, and so forth are not themselves
+objects of choice at all.
+
+Nor are they somehow forced on the agent by constituents from without.
+They are not externally <span style="font-style:italic;">imposed</span>,
+they are internally constituted in the agent—a part of what makes an
+agent into the individual he or she is. They are components of their
+very nature.
+
+<span style="font-weight:bold;">Fallacy Number Three</span>
+
+<span style="font-style:italic;">If all events are explicable in the
+order of natural causality, then so are all of those supposedly free
+decision of agents. This means that the law of causality leaves no room
+for agent causality and thus no room for free will.</span>
+
+To avoid this fallacy we must draw a couple of basic distinctions. The
+first and most crucial distinction here is that between two sorts of
+occurrences: events and eventuations. Events are occurrences that form
+part of nature’s processuality. They are happenings on the world’s
+spatiotemporal stage. So they transpire over time: they have a finite
+lifespan and their time of existence always occupies an open interval.
+
+<span
+style="text-decoration:line-through;">-----------\[АЛу/Ц/М</span>-----►
+Time the lifespan of an event
+
+Eventuations, by contrast, are not parts of nature’s processuality but
+terminating points within it. They are temporally punctiform and lack
+duration. They mark the beginnings and endings of events.
+
+Now all human <span style="font-style:italic;">acts</span> (all actions
+and activities) are event-like. They occupy time. But the junctures of
+resolution that mark the completion of a process of choice and decision
+are not events. Such completions are not actually processual doings, but
+rather are mere junctures of passage—transitions that mark the
+beginnings and endings of events. Looking for something is an activity,
+but actually finding it is not. (There is no present continuous here.
+One can be engaged in looking but not in finding.) Listening to someone
+is an activity, but hearing what they say is not. Activities are events,
+terminations and completions are not. The running of a race is an event
+(as are its various parts, such as running the first half of the race).
+However, <span style="font-style:italic;">fi nishing</span> the race is
+an eventuation. Such eventuations are endings or culminations. One can
+ask, “How long did he take him to <span
+style="font-style:italic;">run</span> the race?” but not “How long did
+he take to <span style="font-style:italic;">start</span> the race?” And
+even as the race ends when it is won (or lost), so the task ends exactly
+at the moment when it is completed (or abandoned). Finishing is thus an
+eventuation, and accordingly, the finishing point of a race, instead of
+being the last instant of the race, is the first instant at which the
+race is no longer in progress. And this is also the case with the
+decisions and choices that terminate a course of deliberations.
+
+Eventuations, so understood, are not parts of nature’s proces-sual flow,
+since <span style="font-style:italic;">parts</span> of processes are
+always processes themselves<span style="font-style:italic;">.
+</span>Rather, eventuations—the beginnings and endings—belong to the
+machinery of conceptualization that minds impose on nature:
+instrumentalities of descriptive convenience that do not correspond to
+anything enjoying independent existence in the real world. Like the
+North Pole or the equator they are not real items existing physically in
+nature, but rather thought instrumentalities projected into reality by
+minds proceeding in the interests of description and examination.
+
+Deliberations, so regarded, are seen as events—as processes that occur
+over open-ended intervals of time and culminate in decisions as
+eventuations. But these culminations are end points. And this means that
+there will always be an interval of time between a decision and any
+<span style="font-style:italic;">subsequent</span> action—an interval
+able to accommodate intervening events to serve as causal explainers of
+that decision/con-sequent action. <span style="font-style:italic;">Since
+there is no such thing as a next time subsequent to a point of decision,
+there will always be room for squeezing in further events before any
+particular decision/subsequent event</span>.
+
+The prospect of determination by events is thus ever present. And
+analogously, there is not a first decision-succeeding event that
+excludes the prospect of a prior occurrence-explaining event. This is
+critical for the present positions regarding the causal explainability
+of actions.
+
+Freedom of decision accordingly does not impede causal explica-bility.
+However, what one has in the wake of a free decision is a phenomenon
+that might be characterized as <span style="font-style:italic;">causal
+compression</span>. Every event that ensues from that decision can be
+accounted for causally— but only with reference to occurrences during
+the immediately preceding but decision-subsequent timespan, whose
+duration converges to zero as the point of decision is approached.
+
+In sum: once we duly distinguish events from eventuations we can regard
+all action (as events) to be causally explicable in terms of what
+precedes. Free will becomes reconciled to the causal explica-bility of
+actions. A free decision inaugurates a series of events each of which is
+fully explicable and determinate on the order of natu-
+
+<span style="font-weight:bold;">Display 6.1. </span>Timing Issues
+
+starting time of a decisionpoint of decision            subsequent event
+
+--------------------------------7-----1--------------►
+
+time —►             <span style="font-style:italic;">1</span>0
+   <sup>v</sup>------<span style="font-style:italic;">\~y------1   to
++</span> Δ
+
+room for further event-explaining events
+
+<span style="font-style:italic;">Note:</span> There is no next point
+after a given point and the starting point of the <span
+style="font-style:italic;">subsequent</span> interval.
+
+ral causality. But this is something that is true of all those
+decision-subsequent events and does not hold for that free decision
+itself.
+
+Thus while overt actions (and thereby also those that are free) will
+always in principle admit of a <span
+style="font-style:italic;">causal</span> explanation, this will not be
+so with decisions and choices. And thereby hangs a lesson. Modern
+science is a good deal better at explaining natural phenomena than at
+explaining psychological phenomena. It is thus not surprising that
+scientistically inclined determinists prefer addressing free agency
+rather than free decision. But of course freedom of the will pivots
+fundamentally on the latter issue, a free action being one that
+emerges—however deterministically—from a free choice or decision.
+
+<span style="font-weight:bold;">Fallacy Number Four</span>
+
+<span style="font-style:italic;">Since predetermination is incompatible
+with free will, so is the determination of a decision’s outcome by the
+agent’s own decisionengendering deliberations.</span>
+
+This objection overlooks an important distinction, namely that between
+<span style="font-style:italic;">pre-determination</span> and what might
+be called <span style="font-style:italic;">precedence
+determination</span>. The former calls for predictability as of some
+antecedent time; the latter involves no such thing. This crucial
+difference is illustrated by the following diagram.
+
+point of decision
+
+time—► <span style="font-style:italic;">t
+                1</span><sub>0</sub>
+
+With <span style="font-style:italic;">predetermination</span> what
+happens at <span style="font-style:italic;">t</span><sub>0</sub> is
+determined by (that is, law-deducible from) that which happens at some
+earlier time, <span style="font-style:italic;">t</span>. Already at this
+earlier time the decision becomes settled: a foregone conclusion that is
+reached in advance of the fact. Some earlier state of affairs renders
+what occurs at the time causally inevitable. With precedence
+determination, by contrast, what happens at <span
+style="font-style:italic;">t</span><sub>0</sub> is also determined by
+what goes before—but only by <span
+style="font-style:italic;">everything</span> that happens from some
+earlier time <span style="font-style:italic;">t</span> up to but not
+including <span
+style="font-style:italic;">1</span><sub>0</sub>.<sup>2</sup> Both alike
+are modes of determination by earlier history. But unlike the former,
+the latter <span style="font-style:italic;">requires an infi nite amount
+of input information</span> that is of course never available. What we
+thus have in this latter case is a mode of antecedence determination
+that does not give rise to predictability but is in fact incompatible
+with it.
+
+Such precedence determination can and should be contemplated in relation
+to free decisions and choices: a determination by the concluding phase
+of the course of the agent’s deliberation that eventuates in the
+decision or choice at issue.
+
+Predetermination means that the outcome becomes a foregone conclusion at
+some antecedent time. The entire matter becomes settled in advance of
+the fact. This is indeed incompatible with free will because it deprives
+the agent of the power to change his mind. There is some time in advance
+of the point of decision when the whole matter becomes settled.
+
+The events that constitute a course of deliberation antecedent to a
+decision or choice so function as to determine the outcome, <span
+style="font-style:italic;">it is only the endgame, the fi nal,
+concluding phase that is decisive</span>.
+
+Precedence determination, by contrast, means that the final phase of the
+deliberation is decisive. Only the entire course of the agent’s thinking
+from <span style="font-style:italic;">some</span> earlier point up to
+<span style="font-style:italic;">but not including</span> the point of
+decision suffices to settle the issue. The outcome is never settled in
+advance—it isn’t over “until the fat lady sings.” And it should be clear
+that this sort of antecedent determination geared to the unfolding
+course of deliberation in its final phase is nowise at odds with freedom
+of the will.
+
+The situation of a free choice among alternatives is thus associated
+with the following sort of picture regarding the situation at issue.
+
+Consider, by way of example, a course of deliberation for deciding among
+three alternatives, <span style="font-style:italic;">A, B,</span> and
+<span style="font-style:italic;">C,</span> with the decision ultimately
+arrived at in favor of <span style="font-style:italic;">C</span> at time
+t<sub>0</sub>, the “point of decision.” At every time <span
+style="font-style:italic;">t</span> before <span
+style="font-style:italic;">1</span><sub>0</sub> there are three possible
+outcomes, <span style="font-style:italic;">A</span>, <span
+style="font-style:italic;">B</span>, and <span
+style="font-style:italic;">C,</span> whose probabilities at any given
+time prior to <span style="font-style:italic;">t</span><sub>0</sub>
+share a band of width 1 overall, as per display 6.2.
+
+Throughout the course of deliberation these probabilities may wobble
+across the probability band, but in the end, they must converge in a way
+that at <span style="font-style:italic;">t</span><sub>0</sub> gives the
+whole probability to one outcome alone. But at any time prior to <span
+style="font-style:italic;">t</span><sub>0</sub> there is a nonzero
+probability that
+
+<div>
+
+<span style="font-weight:bold;">Display 6.2. </span>An Example of
+Deliberating and Probability Dynamics
+
+![](main-4.jpg)
+
+</div>
+
+any of the three outcomes will result—at no anterior time is the outcome
+a foregone conclusion. The endgame is never definitively settled before
+the end is reached: only at the very end (at <span
+style="font-style:italic;">t</span><sub>0</sub>) is there a “probability
+collapse” into 1 and 0’s. Until the issue is “fully decided,” there is a
+nonzero probability of the agent’s making a choice different from the
+one that ultimately eventuated. As the “point of decision” is reached it
+becomes more and more likely how the issue will resolve itself. But
+there are no guarantees. At no time before that point of decision is
+there a “point of no return” where the resolution becomes a foregone
+conclusion.
+
+So once again a distinction comes upon the scene to save the day. The
+objection in view is fallacious because it overlooks the crucial
+distinction between the two very different modes of “determination by
+what precedes” represented respectively by pre-determination and
+precedence determination of the sort just described.
+
+And one other point is important here. The first question to ask of any
+mode of determinism is determination <span style="font-style:italic;">by
+what</span>? By matters outside the agent’s range of motivation is one
+thing. But by the agent’s own deliberations—by the manifold of
+inclination that encompasses his wants, wishes, aims, and choices is
+something else again. After all, determination of decision outcomes by
+the agent’s thoughts is surely a requisite of free will rather than an
+obstacle to it.
+
+<span style="font-weight:bold;">Fallacy Number Five</span>
+
+<span style="font-style:italic;">An act can be free only if its
+productive source is located in the thoughts and deliberations of the
+agent. But this is never the case because the tight linkage of mind
+activity to brain activity means that the thoughts and deliberations of
+the agent’s mind are always rooted in and explicable through the
+processes at work in the agent’s brain.</span>
+
+To see what is amiss here consider the fact that two parameters are
+lockstep coordinated does not settle—or even address—the issue of which
+one has processual initiative.
+
+All of those myriad illustrations of a correlation between thought and
+brain activity are simply immaterial to the issue of who is in charge.
+Either direction remains possible. For the determinist, to be sure,
+agents are productively inert—what they do is always the product of what
+happens to them: they simply provide the stage on which the causality of
+nature performs its drama. The voluntarist, by contrast, sees
+intelligent agents as productively active participants in the drama of
+the world’s physical processuality. And the reality of it is that
+mind-brain correlation cannot effectively be used against him. It is
+simply fallacious to think that the intimate linkage between brain
+activity and thought puts the brain in charge of the mind.
+
+With such an approach, the brain/mind is seen as an emergently evolved
+dual-aspect organization whose two interlinked domains permit the
+impetus for change to lie sometimes on the one side and sometimes on the
+other side. For the <span style="font-style:italic;">direction</span> of
+determination so far remains open. Given these interlocked variables,
+the question of the dependent versus the independent status is wholly
+open, and the question of <span
+style="font-style:italic;">initiative</span> is unresolved. And the fact
+that the mind and brain sail in the same boat is no reason why the mind
+cannot occasionally seize the tiller. What is at issue is a partnership
+of <span style="font-style:italic;">coordination,</span> not a state of
+inflexible master-servant <span
+style="font-style:italic;">subordination.</span> In particular
+situations, the initiative can lie on one side or the other— all
+depending.
+
+But all depending on what? How does it get decided where the initiative
+lies? Well—think of the pulley situation. When the cube rises, is this
+because someone is pushing up on it or because a bird has alighted on
+the sphere? The system itself taken in isolation will not answer this
+for you, but the wider context—the overall causality synoptic and
+dynamic context—will decide where the initiative lies. It is all a
+matter of where the activity starts and what stands at the end of the
+causal line. And the free will situation is much the same. When I read,
+the mind responds to the body; when I write, the body responds to the
+mind.
+
+<span style="font-weight:bold;">Fallacy Number Six</span>
+
+<span style="font-style:italic;">If the acts of an agent are anywise
+determined—if they are somehow, that is, anywise necessitated—then they
+cannot possibly qualify as free.</span>
+
+Both Aristotle and the Stoics sought to reconcile the volitional freedom
+they deemed requisite for morality with the determinism they saw
+operative in the circumstance that character dictates decisions. To
+accomplish this without adopting the Platonic myth of character
+selection, they maintained that what would impede freedom is not
+determination as such but only <span
+style="font-style:italic;">exogenous</span> determination rooted in
+factors outside the agent’s self-produced motivations. The crux of
+freedom, so viewed, is not indetermination but autodetermination—
+determination effected by the agent’s agency itself— <span
+style="font-style:italic;">sua sponite</span> as the medievals put it.
+
+With such a compatibilist view, the crux of the matter is not whether or
+not there is determinism—it is conceded that there indeed is, albeit of
+the agent-internal variety. The crux is whether there is an
+agent-external determinism—a determinism where all reference to the
+agent and their motivations can be out of consideration in matters of
+explanation. The issue of freedom does not turn on the <span
+style="font-style:italic;">that</span> of determination, but on its
+<span style="font-style:italic;">how</span>, its procedural mechanisms.
+For as long as those deliberative factors are critical for
+determination, the basis for freedom is secured.
+
+Thus, we have a distinction here between endogenous (agent-internal) and
+exogenous (agent-external) determination. Clearly if that determination
+is effected without reference to the agent by forces and factors above
+and beyond his control by thought, then we can hardly characterize that
+agent as free. But if those determinative factors are
+
+agent-internal, if they are a matter of the agent’s own plans and
+projects, his own wishes, desires, and purposes, then the deliberation
+of the values of decisions and choices nowise stands in the way of the
+agent’s freedom. A choice or decision that was not the natural and
+inevitable outcome of the agent’s motivations could hardly qualify as a
+free decision.
+
+And so freedom of the will is nowise at odds with the principle of
+causality as long as the locus of causal determination is located in the
+thought process of the agent—that is, as long as causal determination is
+canalized through the mediation of the choices and decisions emergent
+from his deliberations. And there is consequently no opposition between
+freedom and causal determination as long as that determination is
+effected by what transpires in the principle of agents and the matter is
+one of agent causality.<sup>3</sup>
+
+In sum, to set free will at odds with determinacy is fundamentally
+fallacious because it rides roughshod over the crucial distinction— that
+between the agent-external causality of impersonal events and the
+agent-internal causality that involves deliberative thought.
+
+<span style="font-weight:bold;">Fallacy Number Seven</span>
+
+<span style="font-style:italic;">Free will is mysterious and
+supranatural. For it requires a suspension of disbelief regarding the
+standard view of natural occurrence subject to the principle of
+causality.</span>
+
+Along these lines one recent writer complains:<sup>4</sup>
+
+Agent causation is a frankly mysterious doctrine, positing something
+unparalleled by anything we discover in the causal processes of chemical
+reactionism, nuclear fission and fusion, magnetic attraction,
+hurricanes, volcanoes, or such biological processes as metabolism,
+growth, immune reactions, and photosynthesis. Is there such a thing?
+When libertarians insist that there must be, they \[build upon
+sand\].<sup>5</sup>
+
+But this sort of complaint is deeply problematic.
+
+Free will, properly regarded, hinges on the capacity of the mind to
+seize the initiative in effecting changes in the developmental course of
+mind-brain coordinated occurrence. Need this, or <span
+style="font-style:italic;">should</span> this, be seen as something
+mysterious and supranatural?
+
+With the evolution of minds upon the world stage, various capacities and
+capabilities come upon the scene emergently, adding new sorts of
+operations to the repertoire of mammalian operations— remembering past
+occurrences, for example, or imagining future ones. And one of these
+developmental innovations is the capacity of the mind to take the
+initiative in effecting change in the setting of the mind from
+coordinate developments.
+
+Now the explanatory rationale for this innovation is substantially the
+same as that for any other sort of evolution-emergent capability, namely
+that it contributes profitability to the business of natural selection.
+There is nothing mysterious or supranatural about it.
+
+And so this present fallacy rests on a failure of imagination. It is
+predicated in an inability to actualize that with the evolution of
+intelligent agents there arises the prospect of intelligence-guided
+agency determined through the deliberations of these intelligent agents.
+
+<span style="font-weight:bold;">Fallacy Number Eight</span>
+
+Down the corridors of time have echoed the words of Spinoza:
+
+Men believe that they are free, precisely because they are conscious of
+their volitions and decisions, and think not in the slightest about the
+causes that dispose them to those appetites and volitions, since they
+are unknown to them.<sup>6</sup>
+
+Apparently Spinoza thought (perhaps with Freud) that action is only
+genuinely free when it is activated entirely by recognized and
+rationally evaluated and approved motives. But this simply confounds
+<span style="font-style:italic;">free</span> with <span
+style="font-style:italic;">rational</span> agency. As long as the agent
+acts on his own mo-tives—without external duress or manipulation—his
+action is free in the standard (rather than rationalistically
+reconfigured) sense of the term. Motivation as such does not impede
+freedom—be it rationally grounded or not. Our motives, however
+inappropriate and ill-advised they may be and however little understood
+in terms of their psychogenesis, do not <span
+style="font-style:italic;">constrain</span> our will externally but are
+the very core of its expression.
+
+A will that is responsive to an agent’s motivation is thereby free and
+it matters not how compelling that motive may be in relation to the
+resolution at issue.<sup>7</sup> After all, a person’s nature is
+manifested in his or her decisions and finds its overt expression
+realized in that person. His or her decisions are nothing but the overt
+manifestation of an inner motivational nature. It is through decisions
+and consequent actions that people display what they actually are.
+
+Consider this situation. I ask someone to pick a number from one to six.
+They select six. I suspected as much: their past behavior indicates a
+preference for larger numbers over smaller and for evens over odds. So
+their choice was not entirely random. Does that make it unfree? Not at
+all! It was nowise forced or constrained. Those number preferences were
+not external pressures that restricted freedom: on the contrary they
+paved the way to self-expression. It would be folly to see freedom as
+antithetical to motivation. Quite to the contrary! Volitional freedom is
+a freedom to indulge one’s motivations.
+
+To “free” the will from obeisance to the agent’s aims and motives, needs
+and wants, desires and goals, likes and values, personality and
+disposition is not to liberate it, but to make it into something that is
+not just useless but even counterproductive. What rational agent would
+want to be harnessed to the decision-effecting instrumentality that left
+his motivations by the wayside? A will detached from the agent’s motives
+would surely not qualify as <span style="font-style:italic;">his</span>!
+It is a rogue will, not a personal one.
+
+<span style="font-weight:bold;">Fallacy Number Nine</span>
+
+<span style="font-style:italic;">The very idea of free will is
+antithetical to science. Free will is something occult that cannot
+possibly be naturalized.</span>
+
+It is—or should be—hard to work up much sympathy to this objection. For
+if free will exists—if <span style="font-style:italic;">Homo
+sapiens</span> can indeed make free choices and decisions—then this of
+course has to be part of the natural order of things. So if we indeed
+are free then this has to be so for roughly the same reason that we are
+intelligent—that is, because evolution works things out that way.
+
+What lies at the heart and core of free will is, up to the last moment,
+thought control by a rational agent of their deliberation-produced
+choices and decisions in the light of their ongoing updated information
+and evaluation. To see that such a capacity is of advantage in matters
+of survival is not a matter of rocket science.
+
+The objection at issue is thus fallacious in that it rests in the
+inappropriate presupposition that free will has to be something super-
+or preternatural. If there is free will, it will have to be an aspect of
+how naturally evolved beings operate on nature’s stage. The fact that we
+humans get here by evolution does not mean that we cannot make free
+decisions anymore than it does not mean that we cannot solve calculus
+problems or play chess. There simply is no decisive reason for denying
+that just as evolution is capable of having intelligent beings evolve,
+so it is capable of having intelligent agents evolve—crea-tures whose
+actions are the product of thought-determined decisions.
+
+But enough! We have now looked at nine fallacious arguments against
+freedom of the will, and the list could easily be continued. But the
+overall lesson should already be clear. Time and again a misconception
+arises that can be overcome by drawing appropriate distinctions whose
+heed makes for a more viable construal of how freedom of the will—if
+such there is—should be taken to work. So at each stage there is some
+further clarification of what free will involves. There gradually
+emerges from the fog an increasingly clear view that what is at issue
+here is the capacity of intelligent beings to resolve matters of choice
+and decision through a process of deliberation on the basis of beliefs
+and desires that allows for ongoing updates and up to the bitter end
+revisability.
+
+And so while these present considerations do not establish that the will
+is free, nevertheless they provide for a dialectic of the following
+structure:
+
+The general tenor of everyday experience leads people to think of
+themselves as free agents who control their decisions and actions. In
+the face of the pro-presumption that this circumstance establishes, it
+will take a strong argument to the contrary to defeat it. But the flaws
+and fallacies one encounters throughout the range of the standard
+determinist arguments serve to indicate that the opposition simply lacks
+the requisite strength to prevail.
+
+Properly understood, freedom of the will should not be at odds with our
+knowledge about how things work in the world. A viable theory of free
+will should—nay, must—proceed on a naturalistic basis. And the idea that
+this is infeasible appears to be, by all the available indications,
+based on an incorrect and fallacious view of what freedom of the will is
+all about.
