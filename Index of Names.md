@@ -1,4 +1,4 @@
-# <span id="bookmark0"></span><span style="font-weight:bold;"><span id="bookmark1"></span>INDEX OF NAMES</span>
+# INDEX OF NAMES
 
 Aristotle, 8, 10, 33, 34, 63, 108, 207n1
 
@@ -191,33 +191,28 @@ Stalin, 140, 160, 191
 
 Stebbing, Susan, 163-64, 215n4
 
-<table data-border="1">
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td style="vertical-align: top"><p>Stent, Gunther, 210n4</p>
-<p>Stern, David G., 216n1 (chap. 15)</p></td>
-<td style="vertical-align: top"><p>Weber, Max, 163, 215n2 (chap. 12)</p>
-<p>Wittgenstein, 202, 216n1 (chap. 15) Wolf, Susan, 213n7</p></td>
-</tr>
-<tr class="even">
-<td style="vertical-align: top"><p>Tong, Aug, 215n (chap. 13)</p>
-<p>Twain, Mark, 91-92, 96</p></td>
-<td style="vertical-align: bottom"><p>Wright, Crispin, 216n1 (chap.
-15)</p>
-<p>Xenophanes of Colophon, 108</p></td>
-</tr>
-<tr class="odd">
-<td style="vertical-align: top"><p>Unger, Peter, 209n6</p>
-<p>Urmson, J. O., 158, 214n1 (chap. 12)</p></td>
-<td style="vertical-align: bottom"><p>Zangwill, Nick, 216n1 (chap.
-15)</p>
-<p>Zeno, 75</p></td>
-</tr>
-</tbody>
-</table>
+Stent, Gunther, 210n4
+
+Stern, David G., 216n1 (chap. 15)
+
+Tong, Aug, 215n (chap. 13)
+
+Twain, Mark, 91-92, 96
+
+Unger, Peter, 209n6
+
+Urmson, J. O., 158, 214n1 (chap. 12)
 
 Voltaire, 189, 196, 216n9
+
+Weber, Max, 163, 215n2 (chap. 12)</p>
+
+Wittgenstein, 202, 216n1 (chap. 15) Wolf, Susan, 213n7
+
+Wright, Crispin, 216n1 (chap. 15)
+
+Xenophanes of Colophon, 108
+
+Zangwill, Nick, 216n1 (chap. 15)
+
+Zeno, 75
