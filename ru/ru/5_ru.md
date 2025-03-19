@@ -1,0 +1,653 @@
+# <span id="bookmark0"></span><span style="font-weight:bold;"><span id="bookmark1"></span>Limits of Science</span>
+
+<span style="font-weight:bold;">Conditions of Perfected Science</span>
+
+How far can the scientific enterprise advance toward a definitive
+understanding of reality? Might science attain a point of recognizable
+completion? Is the achievement of perfected science a genuine
+possibility, even in theory when all of the “merely practical” obstacles
+are put aside as somehow incidental?
+
+What would <span style="font-style:italic;">perfected science</span>
+actually be like? What sort of standards would it have to meet? Clearly,
+it would have to complete in full the discharge of natural science’s
+mandate or mission. Now, the goal-structure of scientific inquiry covers
+a good deal of ground. It is diversified and complex, spreading across
+both the cognitive/theo-retical and active/practical sectors. It
+encompasses the traditional quartet of description, explanation,
+prediction, and control, in line with display 3.1.
+
+The theoretical sector of science concerns itself with matters of
+characterizing, explaining, accounting for, and rendering
+intel-ligible—with purely intellectual and informative issues, in short.
+
+<span style="font-weight:bold;">Display 3.1. </span>Goal-Structure of
+Scientific Inquiry
+
+<table data-border="1">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="vertical-align: top"></td>
+<td colspan="3" style="vertical-align: bottom"><p>DESCRIPTION (answering
+<span style="font-style:italic;">what?</span> and</p></td>
+</tr>
+<tr class="even">
+<td rowspan="2" style="vertical-align: top"><p><span
+style="font-style:italic;">theoretical</span></p>
+<p><span style="font-style:italic;">goals</span></p>
+<p><span style="font-style:italic;">practical</span></p>
+<p><span style="font-style:italic;">goals</span></p></td>
+<td style="vertical-align: bottom"><p><span
+style="font-style:italic;">how?</span> questions about nature)</p>
+<p>EXPLANATION (answering <span style="font-style:italic;">why?
+</span>questions about nature)</p>
+<p>PREDICTION (successful alignment of our expectations regarding
+nature)</p>
+<p>CONTROL (effective intervention in</p></td>
+<td style="vertical-align: bottom"><p>J</p>
+<p>—</p></td>
+<td style="vertical-align: bottom"><p><span
+style="font-style:italic;">cognitive</span></p>
+<p><span style="font-style:italic;">goals</span></p>
+<p><span style="font-style:italic;">manipulative or</span></p></td>
+</tr>
+<tr class="odd">
+<td style="vertical-align: top"><p>nature to alter the course of events
+in desired directions)</p></td>
+<td style="vertical-align: top"></td>
+<td style="vertical-align: top"><p><span
+style="font-style:italic;">pragmatic goals</span></p></td>
+</tr>
+</tbody>
+</table>
+
+By contrast, the practical sector is concerned with deciding actions,
+guiding expectations, and, in general, with achieving the control over
+our environment that is required for the satisfactory conduct of our
+affairs. The former sector thus deals with what science enables us to
+<span style="font-style:italic;">say</span>, and the latter with what it
+enables us to <span style="font-style:italic;">do</span>. The one
+relates to our role as spectators of nature, the other to our role as
+active participants.
+
+It thus appears that if we are to claim that our science has attained a
+perfected condition, it would have to satisfy (at least) the four
+following conditions:
+
+-   1.<span style="font-style:italic;"> Erotetic completeness</span>: It
+    must answer, in principle at any rate, all those descriptive and
+    explanatory questions that it countenances as legitimately raisable
+    and must accordingly explain everything it deems explicable.
+
+-   2.<span style="font-style:italic;"> Predictive completeness</span>:
+    It must provide the cognitive basis for accurately predicting those
+    eventuations that are in principle predictable (that is, those that
+    it recognizes as such).
+
+-   3.<span style="font-style:italic;"> Pragmatic completeness</span>:
+    It must provide the requisite cognitive means for doing whatever is
+    feasible for beings like ourselves to do in the circumstances in
+    which we labor.
+
+-   4.<span style="font-style:italic;"> Temporal finality</span> (the
+    omega-condition of ultimate finality): It must leave no room for
+    expecting further substantial changes that destabilize the existing
+    state of scientific knowledge.
+
+Each of these modes of substantive completeness deserves detailed
+consideration. First, however, one brief preliminary remark: it is clear
+that any condition of science that might qualify as “perfected” would
+have to meet certain formal requirements of systemic unity. If, for
+example, there are different routes to one and the same question (for
+instance, if both astronomy and geology can inform us about the age of
+the Earth), then these answers will certainly have to be consistent.
+Perfected science will have to meet certain requirements of structural
+systematicity in the manner of its articulation: it must be coherent,
+consistent, consonant, uniform, harmonious, and so on. Such requirements
+represent purely formal cognitive demands upon the architectonic of
+articulation of a body of science that could lay any claim to
+perfection. Interesting and important though they are, we shall not,
+however, trouble about these <span
+style="font-style:italic;">formal</span> requirements here, our present
+concern being with various <span
+style="font-style:italic;">substantive</span> issues.<sup>1</sup>
+
+<span style="font-weight:bold;">Issues of Theoretical
+Completeness</span>
+
+Erotetic completeness is surely an unattainable mirage. We can never
+exhaust the possibility of questions. The Kantian principle of question
+propagation means that inquiry—the dialectic of questions and
+answers—can never get to the ultimate bottom of things.
+
+Any adequate theory of inquiry must recognize that the ongoing progress
+of science is a process of <span
+style="font-style:italic;">conceptual</span> innovation that always
+leaves certain theses wholly outside the cognitive range of the
+inquirers of any particular period. This means that there will always be
+facts (or plausible candidate facts) about a thing that we do not <span
+style="font-style:italic;">know, </span>because we cannot even conceive
+of them. For to grasp such a fact calls for taking a perspective of
+consideration that we simply do not have, since the state of our
+knowledge (or purported knowledge) has not yet advanced to a point at
+which its entertainment is feasible. In bringing conceptual innovation
+about, cognitive progress makes it possible to consider new
+possibilities that were heretofore conceptually inaccessible.
+
+After all, could we ever actually achieve erotetic completeness (<span
+style="font-style:italic;">Q</span>-completeness)—the condition of being
+able to resolve, in principle, all of our (legitimately posable)
+questions about the world? Could we ever find ourselves in this
+position?<sup>2</sup> In theory, yes. A body of science certainly could
+be such as to provide answers to all those questions it allows to arise.
+But just how meaningful would this mode of completeness be?
+
+It is sobering to realize that the erotetic completeness of a state of
+science, <span style="font-style:italic;">S,</span> does not necessarily
+betoken its comprehensiveness or sufficiency. It might reflect the
+paucity of the range of questions we are prepared to contemplate—a
+deficiency of imagination, so to speak. When the range of our knowledge
+is sufficiently restricted, then its <span
+style="font-style:italic;">Q</span>-completeness will merely reflect
+this impoverishment rather than its intrinsic adequacy. Conceivably, if
+improbably, science might reach a purely fortuitous equilibrium between
+problems and solutions. It could eventually be “completed” in the narrow
+ero-tetic sense—providing an answer to every question one can raise in
+the then-existing (albeit still imperfect) state of knowledge—with-out
+thereby being completed in the larger sense of answering the questions
+that would arise if only one could probe nature just a bit more deeply.
+And so, our corpus of scientific knowledge could be erotetically
+complete and yet fundamentally inadequate. Thus, even if realized, this
+erotetic mode of completeness would not be particularly meaningful. (To
+be sure, this discussion proceeds at the level of supposition contrary
+to fact. The exfoliation of new questions from old in the course of
+scientific inquiry that is at issue in Kant’s principle of
+question-propagation spells the infeasibility of ever attaining <span
+style="font-style:italic;">Q</span>-completeness.)
+
+The preceding considerations illustrate a more general circumstance. Any
+claim to the realization of a <span
+style="font-style:italic;">theoretically</span> complete science of
+physics would be one that affords “a complete, consistent, and unified
+theory of physical interaction that would describe all possible
+observations.”<sup>3</sup> But to check that the state of physics on
+hand actually meets this condition, we would need to know exactly what
+physical interactions are indeed possible. And to warrant us in using
+the state of physics on hand as a basis for answering this question, we
+would already have to be assured that its view of the possibilities is
+correct—and thus already have preestablished its completeness. The idea
+of a consolidated erotetic completeness shipwrecks on the infeasibility
+of finding a meaningful way to monitor its attainment.
+
+We can reliably estimate the amount of gold or oil yet to be discovered,
+because we know a priori the Earth’s extent and can thus establish a
+proportion between what we know and what we do not. But we cannot
+comparably estimate the amount of knowledge yet to be discovered,
+because we do not have and cannot have a way of relating what we know to
+what we do not. The very idea of cognitive limits thus has a paradoxical
+air. It suggests that we claim knowledge about something outside
+knowledge. But (to hark back to Hegel) with respect to the realm of
+knowledge, we are not in a position to draw a line between what lies
+inside and what lies outside—seeing that, ex hypothesi we have no
+cognitive access to the latter. One cannot make a survey of the relative
+extent of knowledge or ignorance about nature except by basing it on
+some picture of nature that is already in hand—that is, unless one is
+prepared to take at face value the deliverances of existing science.
+This process of judging the adequacy of our science on its own telling
+is the best we can do, but it remains an essentially circular and
+consequently inconclusive way of proceeding. The long and short of it is
+that there is no cognitively adequate basis for maintaining the
+completeness of science in a rationally satisfactory way.
+
+To monitor the theoretical completeness of science, we accordingly need
+some theory-external control on the adequacy of our theorizing, some
+theory-external reality-principle to serve as a standard of adequacy. We
+are thus driven to abandon the road of pure theory and proceed along
+that of the applicative goals of the enterprise. This gives special
+importance and urgency to the practical sector.
+
+<span style="font-weight:bold;">Pragmatic Completeness</span>
+
+The arbitrament of praxis—not theoretical merit but practical
+capa-bility—affords the best standard of adequacy for our scientific
+proceedings that is available. But could we ever be in a position to
+claim that science has been completed on the basis of the success of its
+practical applications? On this basis, the perfection of science would
+have to manifest itself in the perfecting of control—in achieving a
+perfected technology. But just how are we to proceed here? Could our
+natural science achieve manifest perfection on the side of control over
+nature? Could it ever underwrite a recognizably perfected technology?
+
+The issue of “control over nature” involves much more complexity than
+may appear on first view. For just how is this conception to be
+understood? Clearly, in terms of bending the course of events to our
+will, of attaining our ends within nature. But this involvement of “our
+ends” brings to light the prominence of our own contribution. For
+example, if we are inordinately modest in our demands (or very
+unimaginative), we may even achieve “complete control over nature” in
+the sense of being in a position to do <span
+style="font-style:italic;">whatever we want</span> to do, but yet attain
+this happy condition in a way that betokens very little real capability.
+
+One might, to be sure, involve the idea of omnipotence and construe a
+“perfected” technology as one that would enable us to do literally <span
+style="font-style:italic;">anything</span>. But this approach would at
+once run into the old difficulties already familiar to the medieval
+scholastics. They were faced with the challenge: “If God is omnipotent,
+can he annihilate himself (contra his nature as a <span
+style="font-style:italic;">necessary</span> being), or can he do evil
+deeds (contra his nature as a <span
+style="font-style:italic;">perfect</span> being), or can he make
+triangles have four angles (contrary to <span
+style="font-style:italic;">their</span> definitive nature)?” Sensibly
+enough, the scholastics inclined to solve these difficulties by
+maintaining that an omnipotent God need not be in a position to do
+literally anything but rather simply anything that it <span
+style="font-style:italic;">is possible</span> for him to do. Similarly,
+we cannot explicate the idea of technological omnipotence in terms of a
+capacity to produce any arbitrary result, wholly without qualification.
+We cannot ask for the production of a <span
+style="font-style:italic;">perpetuum mobile</span>, for spaceships with
+“hyperdrive” enabling them to attain transluminar velocities, for
+devices that predict essentially stochastic processes such as the
+disintegrations of transuranic atoms, or for piston devices that enable
+us to set <span style="font-style:italic;">independently</span> the
+values for the pressure, temperature, and volume of a body of gas. We
+cannot, in sum, ask of a “perfected” technology that it should enable us
+to do anything that we might take into our heads to do, no matter how
+“unrealistic” this might be.
+
+All that we can reasonably ask is that perfected technology should
+enable us to do anything <span style="font-style:italic;">that it is
+possible for us to do—</span>and not just what we might <span
+style="font-style:italic;">think</span> we can do, but what we really
+and truly can do. A perfected technology would be one that enabled us to
+do anything that <span style="font-style:italic;">can possibly</span> be
+done by creatures circumstanced as we are. But how can we deal with the
+pivotal conception of “can” that is at issue here? Clearly, only
+science—real, true, correct, <span
+style="font-style:italic;">perfected</span> science— could tell us what
+indeed is realistically possible and what circumstances are indeed
+inescapable. Whenever our “knowledge” falls short of this, we may well
+“ask the impossible” by way of accomplishment (for example, spaceships
+in “hyperdrive”), and thus complain of incapacity to achieve control in
+ways that put unfair burdens on this conception.
+
+Power is a matter of the “effecting of things possible”—of achieving
+control—and it is clearly cognitive state-of-the-art in science that, in
+teaching us about the limits of the possible, is itself the agent that
+must shape our conception of this issue. <span
+style="font-style:italic;">Ever y</span> law of nature serves to set the
+boundary between what is genuinely possible and what is not, between
+what can be done and what cannot, between which questions we can
+properly ask and which we cannot. We cannot satisfactorily monitor the
+adequacy and completeness of our science by its ability to effect “all
+things possible,” because science alone can inform us about what is
+possible. As science grows and develops, it poses new issues of power
+and control, reformulating and reshaping those demands whose realization
+represent that key desideratum of “control over nature.” For science
+itself brings new possibilities to light. (At a suitable stage, the idea
+of “splitting the atom” will no longer seem a contradiction in terms.)
+To see if a given state of technology meets the condition of perfection,
+we must <span style="font-style:italic;">already</span> have a body of
+perfected science in hand to tell us what is indeed possible. To
+validate the claim that our technology is perfected, we need to <span
+style="font-style:italic;">preestablish</span> the completeness of our
+science. The idea works in such a way that claims to perfected control
+can rest only on perfected science.
+
+In attempting to travel the practicalist route to cognitive
+completeness, we are again trapped in a circle, for short of having
+supposedly perfected science in hand, we could not say what a perfected
+technology would be like, and thus we could not possibly monitor the
+perfection of science in terms of the technology that it underwrites.
+
+Moreover, even if (per impossible) a “pragmatic equilibrium” between
+what we can and what we wish to do in science were to be realized, we
+could not be warrantedly confident that this condition will remain
+unchanged. The possibility that just around the corner things will
+become unstuck can never be eliminated. Even if we “achieve control” to
+all intents and purposes, we cannot be sure of not losing our grip upon
+it—not because of a loss of power but because of cognitive changes that
+produce a broadening of the imagination and a widened apprehension as to
+what “having control” involves.
+
+Accordingly, the project of achieving practical mastery can never be
+perfected in a satisfactory way. The point is that control hinges on
+what we want, and what we want is conditioned by what we think possible,
+and <span style="font-style:italic;">this</span> is something that
+hinges crucially on theory—on our beliefs about how things work in this
+world. And so control is something deeply theory infected. We can never
+safely move from apparent to real adequacy in this regard. We cannot
+adequately assure that seeming perfection is more than just that. We
+thus have no alternative but to <span
+style="font-style:italic;">presume</span> that our knowledge (that is,
+our purported knowledge) is inadequate at this and indeed at any other
+particular stage of the game of cognitive completeness.
+
+One important point about control must, however, be noted with care. Our
+preceding negative strictures all relate to attainment of perfect
+control—of being in a position to do everything possible. No such
+problems affect the issue of amelioration—of doing some things better
+and <span style="font-style:italic;">improving</span> our control over
+what it was. It makes perfectly good sense to use its technological
+applications as standards of scientific advancement. (Indeed, we have no
+real alternative to using pragmatic standards at this level, because
+reliance on theory alone is, in the end, going to be circular.) While
+control does not help us with perfection, it is crucial for monitoring
+<span style="font-style:italic;">progress</span>. Standards of
+assessment and evaluation are such that we can implement the idea of
+improvements (progress), but not that of completion (realized
+perfection). We can determine when we have managed to <span
+style="font-style:italic;">enlarge</span> our technological mastery, but
+we cannot meaningfully say what it would be to <span
+style="font-style:italic;">perfect</span> it.
+
+<span style="font-weight:bold;">Predictive Completeness</span>
+
+The difficulties encountered in using physical control as a standard of
+“perfection” in science all also hold with respect to <span
+style="font-style:italic;">prediction</span>, which, after all, is
+simply a mode of <span style="font-style:italic;">cognitive</span>
+control.
+
+Suppose someone asks: “Are you really still going to persist in plaints
+regarding the incompleteness of scientific knowledge when science can
+predict <span style="font-style:italic;">everything</span>?” The reply
+is simply that science will <span
+style="font-style:italic;">never</span> be able to predict literally
+everything: the very idea of predicting <span
+style="font-style:italic;">everything</span> is simply unworkable. For
+then, whenever we predict something, we would have to predict also the
+effects of making those predictions, and then the ramification of <span
+style="font-style:italic;">those</span> predictions, and so on ad
+infinitum. The very most that can be asked is that science put us into a
+position to predict, not <span
+style="font-style:italic;">everything</span>, but rather <span
+style="font-style:italic;">anything</span> that we might choose to be
+interested in and to inquire about. And here it must be recognized that
+our imaginative perception of the possibilities might be much too
+narrow. We can only make predictions about matters that lie, at least
+broadly speaking, within our cognitive horizons. Newton could not have
+predicted findings in quantum theory any more than he could have
+predicted the outcome of American presidential elections. One can only
+make predictions about what one is cognizant of, takes note of, or deems
+worthy of consideration. In this regard, one can be myopic either by not
+noting or by losing sight of significant sectors of natural phenomena.
+
+To be sure, science itself sets the limits to predictability—insisting
+that some phenomena (the stochastic processes encountered in quantum
+physics, for example) are inherently unpredictable. And this is always
+to some degree problematic. The most that science can reasonably be
+asked to do is to predict what it sees as in principle pre-dictable—to
+answer every predictive question that it countenances as proper. And
+here we must once more recognize that any given state of science might
+have gotten matters quite wrong.
+
+With regard to predictions, we are thus in the same position that occurs
+with regard to actually interventionist (rather than “merely cognitive”)
+control. Here, too, we can unproblematically apply the idea of
+improvement—of progress. But it makes no sense to contemplate the <span
+style="font-style:italic;">achievement</span> of perfection. For its
+realization is something we could never establish by any practicable
+means.
+
+<span style="font-weight:bold;">Temporal Finality</span>
+
+Scientists from time to time indulge in eschatological musings and tell
+us that the scientific venture is approaching its end.<sup>4</sup> And
+it is, of course, entirely conceivable that natural science will come to
+a stop, and will do so not in consequence of a cessation of intelligent
+life but in C. S. Peirce’s more interesting sense of completion of the
+project: eventually reaching a condition after which even indefinitely
+ongoing inquiry will not—and indeed in the very nature of things
+can-not—produce any significant change, because inquiry has come to “the
+end of the road.” The situation would be analogous to that envisaged in
+the apocryphal story in vogue during the middle 1800s regarding the
+commissioner of the United States Patents who resigned his post because
+there was nothing left to invent.<sup>5</sup>
+
+Such a position is in theory possible. But here, too, we can never
+determine that it is actual.
+
+There is no practicable way in which the claim that science has achieved
+temporal finality can be validated. The question, “Is the current state
+of science, <span style="font-style:italic;">S</span>, final?” is one
+for which we can never legitimate an affirmative answer. For the
+prospect of future changes of <span style="font-style:italic;">S</span>
+can never be precluded. One cannot plausibly move beyond, “We have (in
+<span style="font-style:italic;">S</span>) no good reason to think that
+<span style="font-style:italic;">S</span> will ever change” to obtain,
+“We have (in <span style="font-style:italic;">S</span>) good reason to
+think that <span style="font-style:italic;">S</span> will never change.”
+To take this posture towards <span style="font-style:italic;">S</span>
+is to <span style="font-style:italic;">presuppose its
+completeness</span>.<sup>6</sup> It is not simply to take the natural
+and relatively unproblematic stance that that for which <span
+style="font-style:italic;">S</span> vouches is to be taken as true, but
+to go beyond this to insist that whatever is true finds a
+rationalization within <span style="font-style:italic;">S</span>. This
+argument accordingly embeds <span style="font-style:italic;">fi
+nality</span> in <span style="font-style:italic;">completeness</span>,
+and in doing so jumps from the frying pan into the fire. For it shifts
+from what is difficult to what is even more so. To hold that if
+something is so at all, then <span style="font-style:italic;">S</span>
+affords a good reason for it is to take so blatantly ambitious (even
+megalomaniacal) a view of <span style="font-style:italic;">S</span> that
+the issue of finality seems almost a harmless appendage.
+
+Moreover, just as the appearance of erotetic and pragmatic equilibrium
+can be a product of narrowness and weakness, so can temporal finality.
+We may think that science is unchangeable simply because we have been
+unable to change it. But that’s just not good enough. Were science ever
+to come to a seeming stop, we could never be sure that it had done so
+not because it is at “the end of the road” but because we are at the end
+of our tether. We can never ascertain that science has attained the
+ω-condition of final completion, since from our point of view the
+possibility of further change lying “just around the corner” can never
+be ruled out finally and decisively. No matter how final a position we
+<span style="font-style:italic;">appear</span> to have reached, the
+prospects of its coming unstuck cannot be precluded. As we have seen,
+future science is inscrutable. We can never claim with assurance that
+the position we espouse is immune to change under the impact of further
+data—that the oscillations are dying out and we are approaching a final
+limit. In its very nature, science “in the limit” relates to what
+happens in the long run, and this is something about which we <span
+style="font-style:italic;">in principle</span> cannot gather
+information: any information we can actually gather inevitably pertains
+to the short run and not the long run. We can never achieve adequate
+assurance that <span style="font-style:italic;">apparent</span>
+definitiveness is <span style="font-style:italic;">real</span>. We can
+never consolidate the claim that science has settled into a frozen,
+changeless pattern. The situation in natural science is such that our
+knowledge of nature must ever be presumed to be incomplete.
+
+The idea of achieving a state of recognizably completed science is
+totally unrealistic. Even as widely variant modes of behavior by three
+dimensional objects could produce exactly the same two-dimensional
+shadow-projections, so too could very different law-systems, in
+principle, engender exactly the same phenomena. We cannot make any
+definitive inferences from phenomena to the nature of the real. The
+prospect of perfected science is bound to elude us. The upshot is that
+science must always be presumed to be incomplete.
+
+One of the clearest lessons of the history of science is that where
+scientific knowledge is concerned, further discovery does not just <span
+style="font-style:italic;">supplement</span> but generally <span
+style="font-style:italic;">emends</span> our prior information.
+Accordingly, we have little alternative but to take the humbling view
+that the incompleteness of our purported knowledge about the world
+entails its potential incorrectness as well. It is now a matter not
+simply of <span style="font-style:italic;">gaps</span> in the structure
+of our knowledge or errors of omission. There is no realistic
+alternative but to suppose that we face a situation of real <span
+style="font-style:italic;">fl aws</span> as well, of errors of
+commission. This aspect of the matter endows incompleteness with an
+import graver than might appear on first view.<sup>7</sup>
+
+<span style="font-weight:bold;">The Dispensability of Perfection</span>
+
+The cognitive situation of natural science invites description in
+theological terms. The ambiguity of the human condition is only too
+manifest here. We cannot expect ever to reach a position of definitive
+finality in this imperfect dispensation: we do have “knowledge” of
+sorts, but it is manifestly imperfect. Expelled from the Garden of Eden,
+we are deprived of access to “the God’s-eye point of view.” Definitive
+and comprehensive adequacy is denied us: we have no basis for claiming
+to know “the truth, the whole truth, and nothing but the truth” in
+scientific matters. We yearn for absolutes, but have to settle for
+plausibilities; we desire what is definitively correct, but have to
+settle for conjectures and estimates.
+
+In this imperfect epistemic dispensation, we have to reckon with the
+realities of the human condition. Age disagrees with age; different
+states of the art involve naturally discordant conceptions and
+incommensurate positions. The moral of the story of the Tower of Babel
+applies.
+
+The absolutes for which we yearn represent an ideal that lies beyond the
+range of practicable realization. We simply have to do the best we can
+with the means at our disposal. To aspire to absolutes— for definitive
+comprehensiveness—is simply unrealistic.
+
+It is sometimes maintained that such a fallibilist and imperfec-tionist
+view of science is unacceptable. To think of science as <span
+style="font-style:italic;">inevitably</span> incomplete and to think of
+“the definitive answers” in scientific matters as <span
+style="font-style:italic;">perpetually</span> unattainable is, we are
+told, to write science off as a meaningful project.
+
+But in science as in the moral life, we can operate perfectly well in
+the realization that perfection is unattainable. No doubt here and there
+some scientists nurse the secret hope of attaining some fixed and final
+definitive result that will stand, untouchable and changeless, through
+all subsequent ages. But unrealistic aspirations are surely by no means
+essential to the scientific enterprise as such. In science, as in other
+domains of human endeavor, it is a matter of doing the best we can with
+the tools at hand.
+
+For the fact that <span style="font-style:italic;">perfection</span> is
+unattainable does nothing to countervail the no less real fact that
+<span style="font-style:italic;">improvement</span> is realizable—that
+progress is possible. The undeniable prospect of realizable progress—of
+overcoming genuine defect and deficiencies that we find in the work of
+our predecessors—affords ample impetus to scientific innovation.
+Scientific progress is not generated <span style="font-style:italic;">a
+fronte</span> by the pull of an unattainable ideal; it is stimulated
+<span style="font-style:italic;">a tergo</span> by the push of
+dissatisfaction with the deficiencies of achieved positions. The labors
+of science are not pulled forward by the mirage of (unattainable)
+perfection. We are pushed onward by the (perfectly realizable) wish to
+do better than our predecessors in the enterprise.
+
+We can understand “progress” in two senses. On the one hand, there is
+<span style="font-style:italic;">O</span>-progress, defined in terms of
+increasing distance from the starting point (the “origin”). On the other
+hand, there is <span style="font-style:italic;">D</span>-progress,
+defined in terms of decreasing distance from the goal (the
+“destination.”) Consider the picture:
+
+<div>
+
+origin                                          destination
+
+![](main-3.jpg)
+
+the attained position
+
+</div>
+
+Ordinarily, the two modes of progress are entirely equivalent: we
+increase the distance traveled from <span
+style="font-style:italic;">O</span> by exactly the same amount as we
+decrease the distance remained to <span
+style="font-style:italic;">D</span>. But if there is no attainable
+destination—if we are engaged on a journey that, for all we know, is
+literally endless and has no determinable destination, or only one that
+is “infinitely distant”—then we just cannot manage to decrease our
+distance from it.
+
+Given that in natural science we embarked on a journey that is literally
+endless, it is only <span style="font-style:italic;">O</span>-progress
+that can be achieved, and not <span
+style="font-style:italic;">D</span>-progress. We can gauge our progress
+only in terms of how far we have come, and not in terms of how far we
+have to go. On a journey that is in principle endless, we simply cannot
+say that we are nearing the goal.
+
+The upshot is straightforward. The idea of <span
+style="font-style:italic;">improving</span> our science can be
+implemented without difficulty, since we can clearly improve our
+performance as regards its goals of prediction, control, and the rest.
+But the idea of <span style="font-style:italic;">perfecting</span> our
+science cannot be implemented.
+
+The idea of “perfected science” is that <span
+style="font-style:italic;">focus imaginarius</span> whose pursuit
+canalizes and structures our theorizing. It represents the ultimate
+telos of inquiry, the idealized destination of a journey in which we are
+still and indeed are ever engaged, a grail of sorts that we can pursue
+but not possess. The ideal of perfection thus serves a fundamentally
+regulative role to mark the fact that actuality falls short of our
+cognitive aspirations. It marks a contrast that regulates how we make
+and must view our claims, playing a rule akin to that of the functionary
+who reminded the Roman emperor of his mortality in reminding us that our
+pretensions are always vulnerable. Contemplation of this idea reminds us
+that the human condition is suspended between the reality of imperfect
+achievement and the ideal of an unattainable perfection. In abandoning
+this conception—in rejecting the idea of an “ideal science” that alone
+can properly be claimed to afford a definitive grasp of reality—we would
+abandon an idea that crucially regulates our view regarding the nature
+and status of the knowledge to which we lay claim. We would then no
+longer be constrained to characterize our view of things as <span
+style="font-style:italic;">merely</span> ostensible and purported. We
+would be tempted to regard our picture of nature as real, authentic, and
+final in a manner that we, at bottom, realize it does not deserve.
+
+What is being maintained here is not that “completed and perfected
+science” is a senseless conception as such, but rather that the idea of
+<span style="font-style:italic;">attaining</span> it is senseless. It
+represents a theoretically realizable state whose actual realization we
+can never achieve. What is unrealizable is not perfection as such but
+the <span style="font-style:italic;">epistemic condition</span> of
+recognizing its attainment. (Even if we arrive, we can never tell that
+we’re there!)
+
+But does this situation not destroy “the pursuit of perfection” as a
+meaningful endeavor? Here it is useful to heed the distinction between a
+<span style="font-style:italic;">goal</span> and an <span
+style="font-style:italic;">ideal</span>. A goal is something that we
+hope and expect to achieve. An ideal is merely a wistful inkling, a
+“wouldn’t it be nice if”—something that figures in the mode of
+aspiration rather than expectation. A goal motivates us in striving for
+its attainment; an ideal stimulates and encourages. And ideal does not
+provide us with a destination that we have any expectation of reaching;
+it is something for whose actual attainment we do not even hope. It is
+in <span style="font-style:italic;">this</span> sense that “perfected
+science” is an ideal.<sup>8</sup>
+
+Here, as elsewhere, we must reckon appropriately with the standard gap
+between aspiration and attainment. In the practical sphere—in
+craftsmanship, for example, or the cultivation of our health—we may
+<span style="font-style:italic;">strive</span> for perfection, but
+cannot ever claim to <span style="font-style:italic;">attain</span> it.
+And the situation in inquiry is exactly parallel with what we encounter
+in such other domains—ethics specifically included. The value of an
+ideal, even of one that is not realizable, lies not in the benefit of
+its attainment (obviously and ex hypothesi!) but in the benefits that
+accrue from its pursuit. The view that it is rational to pursue an aim
+only if we are in a position to achieve its attainment or approximation
+is mistaken; it can be perfectly valid (and entirely rational) if the
+indirect benefits of its pursuit and adoption are sufficient—if in
+striving after it, we realize relevant advantages to a substantial
+degree. An unattainable ideal can be enormously productive. And so, the
+legitimation of the idea of “perfected science” lies in its facilitation
+of the ongoing evolution of inquiry. In this domain, we arrive at the
+perhaps odd-seeming posture of an invocation of practical utility for
+the validation of an ideal.
