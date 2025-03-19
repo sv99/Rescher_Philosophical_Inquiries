@@ -1,0 +1,754 @@
+# <span id="bookmark0"></span><span style="font-weight:bold;"><span id="bookmark1"></span>The Task of Philosophy</span>
+
+<span style="font-weight:bold;">The Nature of Philosophy as a Cognitive
+Enterprise</span>
+
+Philosophy may well be something of an acquired taste. For philosophers
+not only raise questions and propose answers, but they try to glimpse
+behind the curtain of such issues. They want to question the questions
+themselves and ask why they are important. And they are not just
+satisfied to have an answer but want to know just what it is that makes
+an answer correct and appropriate.
+
+Philosophy is identified as one particular human enterprise among others
+by its characterizing mission of providing satisfactory answers to the
+“big questions” that we have regarding the world’s scheme of things and
+our place within it. Often as not, those big questions in philosophy are
+<span style="font-style:italic;">explanatory</span> questions, questions
+whose answers “explain the facts,” thereby enabling us to understand why
+things are as they indeed are. The history of philosophy is an ongoing
+intellectual struggle to develop ideas that render comprehensible the
+seemingly endless diversity and complexity that surrounds us on all
+sides. The instruments of philosophizing are the ideational resources of
+concepts and theories, and philosophy deploys them in a quest for
+understanding, in the endeavor to create an edifice of thought able to
+provide us with an intellectual home that affords a habitable shelter in
+a complicated and challenging world. As a venture in providing
+rationally cogent answers to our questions about large-scale issues
+regarding belief, evaluation, and action, philosophy is a sector of the
+cognitive enterprise at large. And subsidiarily— since a rational
+creature acts on the basis of its beliefs—philosophy also has a bearing
+on action, so as to implement the idea of <span
+style="font-style:italic;">philoso-phia biou kubernetes—</span>the motto
+of the American Phi Beta Kappa Society, which has it that philosophy is
+a guide to life.
+
+Philosophy has no distinctive information sources of its own. It has its
+own <span style="font-style:italic;">problems</span>, but the <span
+style="font-style:italic;">substantive raw materials</span> by whose
+means it develops answers must ultimately come from elsewhere. It thus
+has no distinctive subject matter to separate it from other branches of
+inquiry and furnishes no novel facts but only offers insights into
+relationships. For <span style="font-style:italic;">everything</span> is
+relevant to its concerns, its tasks being to provide a sort of <span
+style="font-style:italic;">expositio mundi</span>, a traveler’s
+guidebook to reality at large. The mission of philosophy is to ask, and
+to answer in a rational and disciplined way, all those great questions
+about life in this world that people wonder about in their reflective
+moments.
+
+In the first book of the <span
+style="font-style:italic;">Metaphysics</span>, Aristotle tells us that
+“it is through wonder that men now begin and originally began to
+philosophize, wondering in the first place at obvious perplexities, and
+then by gradual progression raising question about the greater matters
+too, for example, about the origin of the universe.”<sup>1</sup> And
+this characterization of the field is right on target. Philosophy
+strives after that systematic integration of knowledge that the sciences
+initially promised but have never managed to deliver because of their
+increasing division of labor and never-ending pursuit of specialized
+detail. For what philosophy endeavors (or <span
+style="font-style:italic;">should</span> endeavor) to do is to look at
+the sum total of what we know and tell us what it means for us— where
+the moral lies (“die Moral von der Geschicht”). Dealing with being and
+value in general—with possibility, actuality, and worth— the concerns of
+philosophy are universal and all-embracing. And not only is philosophy
+too inclusive and all encompassing to have a restricted range of
+concern, but it also does not have any altogether distinctive method.
+Its procedures of inquiry and reasoning are too varied and diversified,
+making use in this endeavor of whatever useful means come to hand for
+exclusivity—it takes what it needs from whatever source it can. What
+characterizes philosophy is thus neither a special subject matter nor a
+special methodology but rather—to reemphasize—its defining mission is
+that of coordinating the otherwise available information in the light of
+big questions regarding man, the world, and his place within its scheme
+of things. Philosophy deals largely with <span
+style="font-style:italic;">how</span> and <span
+style="font-style:italic;">whether</span> and <span
+style="font-style:italic;">why</span> questions: how the world’s
+arrangements stand in relation to us, whether things are as they seem,
+and why things should be as they are (for example, why it is that we
+should do “the ethically right” things). Ever since Socrates pestered
+his fellow Athenians with puzzling issues about “obvious” facts
+regarding truth and justice, philosophers have probed for the reason why
+behind the reason why.
+
+Philosophy’s question-oriented concerns address three sorts of issues in
+particular:
+
+-   •<span style="font-style:italic;"> informative</span> (determining
+    what is the case)
+
+-   •<span style="font-style:italic;"> practical</span> (how to do
+    things: how to achieve our aims)
+
+-   •<span style="font-style:italic;"> evaluative/directive</span> (what
+    to aim at)
+
+It is the “big issues” in these three cases with which philosophy
+concerns itself. And it must be systematic because it must—for reasons
+we shall soon examine more closely—deal with the vast image of issues in
+an integrated, consistent, and coherent way. Philosophy is
+quintessentially the work of reason. The aim of the enterprise is to
+provide rational coherence to our thoughts and rational direction to our
+actions.
+
+After all, it is clearly not just answers that we want, but answers
+whose tenability can plausibly be established—rationally defensible and
+well-substantiated answers. And in particular, this requires that we
+transact our question-resolving business in a way that is harmonious
+with and does not damage our prephilosophical connections in matters of
+everyday life and scientific inquiry. Philosophy’s mandate is to answer
+questions in a manner that achieves overall rational coherence so that
+the answers we give to some of our questions square with those that we
+give to others.
+
+Philosophy is matter of rational inquiry, a cognitive enterprise, a
+venture in question-resolution subject to the usual standards of
+rationality. In doing philosophy we are committed by the very nature of
+the project at hand to maintaining a commitment to the usual ground
+rules of cognitive and practical rationality.<sup>2</sup>
+
+To be sure, we are sometimes said to be living in a post-philosophical
+age—an era when the practice of philosophy is no longer viable. But this
+is absurd. Nowadays more than ever we both desire and require the
+guidance of rigorous thinking about the nature of the world and our
+place within it. And the provision of such an intellectual orientation
+is philosophy’s defining mission. The fact is that the impetus to
+philosophy lies in our very nature as rational inquirers: as beings who
+have questions, demand answers, and want these answers to be cogent
+ones. Cognitive problems arise when matters fail to meet our
+expectations, and the expectation of rational order is the most
+fundamental of them all. The fact is simply that we <span
+style="font-style:italic;">must </span>philosophize; it is a situational
+imperative for a rational creature.
+
+<span style="font-weight:bold;">The Need for Philosophy: Humans as
+</span><span style="font-weight:bold;font-style:italic;">Homo
+quaerens</span>
+
+At the basis of the cognitive enterprise lies the fact of human
+curiosity rooted in the need-to-know of a weak and vulnerable creature
+emplaced in a difficult and often hostile environment in which it must
+make its evolutionary way by its wits. For we must act—our very survival
+depends upon it—and a rational animal must align its actions with its
+beliefs. We have a very real and material stake in securing viable
+answers to our questions as to how things stand in the world we live in.
+
+The discomfort of unknowing is a natural human sentiment. To be ignorant
+of what goes on about one is unpleasant to the individual and dangerous
+to the species from an evolutionary point of view. As William James
+wisely observed:
+
+The utility of this emotional affect of expectation is perfectly
+obvious; “natural selection,” in fact, was bound to bring it about
+sooner or later. It is of the utmost practical importance to an animal
+that he should have prevision of the qualities of the objects that
+surround him.<sup>3</sup>
+
+There is good reason why we humans pursue knowledge—it is our
+evolutionary destiny. Humans have evolved within nature to fill the
+ecological niche of an intelligent being. We are neither numerous and
+prolific (like the ant and the termite), nor tough and aggressive (like
+the shark). Weak and vulnerable creatures, we are constrained to make
+our evolutionary way in the world by the use of brainpower. It is by
+knowledge and not by hard shells or sharp claws or keen teeth that we
+have carved out our niche in evolution’s scheme of things. The demand
+for understanding, for a cognitive accommodation to one’s environment,
+for “knowing one’s way about,” is one of the most fundamental
+requirements of the human condition. Our <span
+style="font-style:italic;">questions </span>form a big part of our
+life’s agenda, providing the impetus that gives rise to our knowledge—or
+putative knowledge—of the world. Our species is <span
+style="font-style:italic;">Homo quaerens</span>. We have questions and
+want (nay, <span style="font-style:italic;">need</span>) answers.
+
+In situations of cognitive frustration and bafflement we cannot function
+effectively as the sort of creature nature has compelled us to become.
+Confusion and ignorance—even in such “remote” and “abstruse” matters as
+those with which philosophy deals—yield psychic dismay and discomfort.
+The old saying is perfectly true: philosophy bakes no bread. But it is
+also no less true that man does not live by bread alone. The physical
+side of our nature that impels us to eat, drink, and be merry is just
+one of its sides. <span style="font-style:italic;">Homo sapiens</span>
+require nourishment for the mind as urgently as nourishment for the
+body. We seek knowledge not only because we wish, but because we must.
+For us humans, the need for information, for knowledge to nourish the
+mind, is every bit as critical as the need for food to nourish the body.
+Cognitive vacuity or dissonance is as distressing to us as hunger or
+pain. We want and need our cognitive commitments to comprise an
+intelligible story, to give a comprehensive and coherent account of
+things. Bafflement and ignorance—to give suspensions of judgment the
+somewhat harsher name they deserve—exact a substantial price from us.
+The quest for cognitive orientation in a difficult world represents a
+deeply practical requisite for us. The basic demand for information and
+understanding presses in upon us, and we must do (and are pragmatically
+justified in doing) what is needed for its satisfaction. For us,
+cognition is the most practical of matters. Knowledge itself fulfills an
+acute practical need. And this is where philosophy comes in, in its
+attempt to grapple with our basic cognitive concerns.
+
+Philosophy seeks to bring rational order, system, and intelligibility to
+the confusing diversity of our cognitive affairs. It strives for orderly
+arrangements in the cognitive sphere that will enable us to find our way
+about in the world in an effective and satisfying way. Philosophy is
+indeed a venture in theorizing, but one whose rationale is eminently
+practical. A rational animal that has to make its evolutionary way in
+the world by its wits has a deep-rooted need for speculative reason.
+
+But why pursue rationalizing philosophy at all—why accept this
+enterprise as an arena of appropriate human endeavor? The answer is that
+it is an integral and indispensable component of the larger project of
+rational inquiry regarding issues important to us humans. This, to be
+sure, simply pushes the question back: why pursue reasoned inquiry? And
+this question splits into two components.
+
+The first component is: Why pursue <span
+style="font-style:italic;">inquiry</span>? Why insist on knowing about
+things and understanding them? The answer is twofold. On the one hand,
+knowledge is its own reward. And on the other hand, knowledge is the
+indispensable instrument for the more efficient and effective
+realization of other goals. We accordingly engage in philosophical
+inquiry because we must; because those great intellectual issues of man
+and his place in the world’s scheme, of the true and the beautiful and
+the good, of right and wrong, freedom and necessity, causality and
+determinism, and so on, matter greatly to us—to all of us some of the
+time and to some of us all of the time. We philosophize because it is
+important to us to have answers to our questions. After all, a
+philosophical work is neither a work of fiction nor a work of history.
+Its mission is not so much to enlighten or to inform as to persuade: to
+convince people of the appropriateness of a certain solution to a
+certain problem. What is at issue is, at bottom, an exercise in question
+resolution—in problem solving. Its roots are in human curiosity—in the
+“facts of life,” that we have questions and may need to obtain
+cognitively satisfying answers to them.
+
+The second component of our question is: why <span
+style="font-style:italic;">reasoned</span> inquiry? The answer is that
+we are <span style="font-style:italic;">Homo sapiens</span>, a <span
+style="font-style:italic;">rational</span> animal. We do not want just
+answers, but answers that can satisfy the demands of our
+intelligence—answers that we can in good conscience regard as
+appropriate, as tenable, and defensible. We are not content with
+information about which answers people would like to have
+(psychologism), nor with information about what sort of answers are
+available (possibility mongering). What we want is cogent guidance
+regarding which answers to <span
+style="font-style:italic;">adopt</span>—which contentions are correct
+or, at any rate, plausible. And reason affords our prime standard in
+this regard.
+
+Philosophy, then, is an inquiry that seeks to resolve problems arising
+from the incoherence of the matter of our extraphilosophical
+commitments. And to abandon philosophy is to rest content with
+incoherence. One can, of course, cease to do philosophy (and this is
+what sceptics of all persuasions have always wanted). But if one is
+going to philosophize at all, one has no alternative but to proceed by
+means of arguments and inferences, the traditional vehicles of human
+rationality.
+
+Yet, why pursue such a venture in the face of the all too evident
+possibility of error? Why run such cognitive risks? For it is only too
+clear that there <span style="font-style:italic;">are</span> risks here.
+In philosophizing, there is a gap between the individual indications at
+our disposal and the answers to our questions that we decide to accept.
+(As there also is in science— but in philosophy the gap is far wider
+because the questions are of a different scale.) Because of this, the
+positions we take have to be held tentatively, subject to expectation of
+an almost certain need for amendment, qualification, improvement, and
+modification. Philosophizing in the classical manner—exploiting the
+available indications of experience to answer those big questions on the
+agenda of traditional philosophy—is predicated on the use of reason to
+do the best we can to align our cognitive commitments with the substance
+of our experience. In this sense, philosophizing involves an act of
+faith: when we draw on our experience to answer our questions we have to
+proceed in the tentative hope that the best we can do is good enough, at
+any rate, for our immediate purposes.
+
+The question of intellectual seriousness is pivotal here. Do we care? Do
+we <span style="font-style:italic;">really want</span> answers to our
+questions? And are we sufficiently committed to this goal to be willing
+to take risks for the sake of its achievement—risks of potential error,
+of certain disagreement, and of possible philistine incomprehension? For
+these risks are un-avoidable—an ineliminable part of the philosophical
+venture. If we lose the sense of legitimacy and become too fainthearted
+to run such risks, we must pay the price of abandoning the inquiry.
+
+This of course can be done. But to abandon the quest for answers in a
+<span style="font-style:italic;">reasoned</span> way is impossible. For
+in the final analysis there is no alternative to philosophizing as long
+as we remain in the province of reason. We adopt some controversial
+position or other, no matter which way we turn—no matter how elaborately
+we try to avoid philosophical controversy—it will come back to haunt us.
+The salient point was already well put by Aristotle: “\[Even if we join
+those who believe that philosophizing is not possible\] in this case too
+we are obliged to inquire how it is possible for there to be no
+Philosophy; and then, in inquiring, we philosophize, for rational
+inquiry is the essence of Phi-losophy.”<sup>4</sup> To those who are
+prepared simply to abandon philosophy, to withdraw from the whole
+project of trying to make sense of things, we can have nothing to say.
+(How can one reason with those who deny the point and propriety of
+reasoning?) But with those who <span style="font-style:italic;">argue
+</span>for its abandonment we can do something—once we have enrolled
+them in the community as fellow theorists with a position of their own.
+F. H. Bradley hit the nail on the head: “The man who is ready to prove
+that metaphysical knowledge is impossible . . . is a brother
+metaphysician with a rival theory of first principles.”<sup>5</sup> One
+can abandon philosophy, but one cannot <span
+style="font-style:italic;">advocate</span> its abandonment through
+rational argumentation without philosophizing.
+
+The question, “should we philosophize?” accordingly receives a
+straightforward answer: the impetus to philosophize lies in our very
+nature as rational inquirers. We must philosophize; it is a situational
+imperative for a rational creature such as ourselves.
+
+<span style="font-weight:bold;">Rationality is the Instrument of
+Philosophy</span>
+
+The ancients saw man as “the rational animal,” set apart from other
+creatures by capacities for speech and deliberation. Under the precedent
+of Greek philosophy, Western thinkers have generally deemed the use of
+thought for the guidance of our proceedings to be at once the glory and
+the duty of <span style="font-style:italic;">Homo sapiens</span>.
+
+Rationality consists in the intelligent pursuit of appropriate ends. It
+calls for the appropriate use of reason to resolve choices in the best
+possible way. To behave rationally is to make use of one’s intelligence
+to figure out the best thing to do in the circumstances. It is a matter
+of the recognizably effective pursuit of appropriately appreciated
+benefits. Rationality thus has a crucially economic dimension, seeing
+that the impetus to economize is an inherent part of intelligent
+comportment. Rationality is a matter of deliberately doing the best one
+can with the means at one’s disposal—of striving for the best results
+that one can expect to achieve within the range of one’s
+re-sources—specifically including one’s intellectual resources.
+Optimization in what one thinks, does, and values is the crux of
+rationality. Costs and benefits are the pivotal factors. Be it in
+matters of belief, action, or evaluation, rationality demands a
+deliberate endeavor to optimize benefits relative to the expenditure of
+available resources. Reason requires the cultivation of intelligently
+adopted objectives in intelligent ways.
+
+Rationality is not an inevitable feature of conscious organic life. Here
+on earth, at least, it is our specifically human instrumentality, a
+matter of our particular evolutionary heritage. Rational
+intel-ligence—the use of our brains to guide action by figuring out what
+is the apparent best—is the survival instrument of our species, in much
+the same way that other creatures have managed to ensure their survival
+by being prolific, or tough, or well sheltered. It is a means to
+adaptive efficiency, enabling us—sometimes at least—to adjust our
+environment to our needs and wants rather than conversely.
+
+The maintenance of rational coherence and consistency is a key task of
+philosophy. But is such consistency itself not simply a mere ornament, a
+dispensable luxury, the hobgoblin of little minds? Rousseau wrote to one
+of his correspondents that he did not wish to be shackled by
+narrow-minded consistency—he proposed to write whatever seemed sensible
+at the time. In a writer of belles lettres, this sort of flexibility may
+seem refreshingly open-minded. But such an approach is not available to
+a philosopher. Philosophy in its very nature is a venture of
+systematization and rationalization—of rendering matters intelligible
+and accessible to rational thought. Its concern is for the rational
+order and systemic coherence of our commitments. The commitment to
+rational coherence is a part of what makes philosophy the enterprise it
+is.
+
+But why not embrace contradiction in a spirit of openness rather than
+flee from it?<sup>6</sup> The answer is that rejecting inconsistencies
+is the only road to comprehension and understanding. To the extent that
+we do not resolve an issue in one definite way to the exclusion of
+others, we do not resolve it at all. Only a coherent,
+alternative-excluding resolution is a resolution at all. Moreover,
+intelligence has, for us, an evolutionary dimension, and only a
+consistent and coherent mode of action can provide for evolutionary
+efficacy.
+
+The presence of an inconsistency in framing an answer to a question is
+self-destructive. To respond “yes <span
+style="font-style:italic;">and</span> no” is in effect to offer no
+response at all; answers that do not <span
+style="font-style:italic;">exclude</span> manage to achieve no useful
+<span style="font-style:italic;">inclusions</span> either. Only where
+some possibilities are denied is anything asserted: “All determination
+is negation” (<span style="font-style:italic;">omnis afflrmatio est
+negatio</span>). A logically inconsistent theory of something is thereby
+self-defeating—not just because it affirms an impossibility but because
+it provides no information on the matter at issue. An inconsistent
+“position” is no position at all. Keeping on good terms with <span
+style="font-style:italic;">all</span> the possibilities requires that we
+embrace none. But the point of having a position at all is to have some
+answer to some question or other. If we fail to resolve the problem in
+favor of one possibility or another, we do not have an answer. To
+whatever extent we fail to resolve the issue in favor of one alternative
+or another, we also fail to arrive at some answer to the question.
+Ubiquitous yea-saying is socially accommodating but informatively
+unhelpful. (Compare Aristotle’s defense of the law of noncontradiction
+in Book Gamma of the <span
+style="font-style:italic;">Metaphysics</span>.) As long as and to the
+extent that inconsistencies remain, our goal of securing information or
+achieving understanding is defeated.
+
+To be sure, while we ever strive to <span
+style="font-style:italic;">improve</span> our knowledge, we never manage
+to <span style="font-style:italic;">perfect</span> it. The stage for our
+present deliberations is itself set by a trio of individually plausible
+but collectively incompatible theses represented by the inconsistent
+triad:
+
+-   1\. Reality is knowable. (Thought can adequately characterize
+    reality—not fully, to be sure, but at any rate in essentials.)
+
+-   2\. Our knowledge of reality is consistent; it constitutes a
+    logically “coherent whole.” Rational inquiry can in principle depict
+    reality adequately in a coherent system of true propositions.
+
+-   3\. Experience shows that our ventures at devising knowledge of
+    reality eventually run into inconsistency as we work out their
+    ramifications and implications more fully.
+
+Such an aporetic cluster of inconsistent plausibilities comes to be
+resolved by abandoning one of the theses involved.
+
+Now denial of thesis 3 is not a promising option here, since, to all
+appearances, this simply represents a “fact of life” regarding the
+situation in philosophy. Rejecting 2 also has its problems. Perhaps it
+is conceivable (just barely) that reality will, whenever offered a
+choice of alternatives, decide to have it both ways and accept
+inconsistency—a prospect envisaged by thinkers from the days of Nicholas
+of Cusa to contemporary neo-Hegelians. This is a theory that we might,
+in the end, feel compelled to adopt. But clearly only as a last resort,
+“at the end of the day”—and thus effectively never. In philosophy, we
+want to make sense of things. A theory that says they just cannot be
+made sense of coherently and consistently may well have various merits,
+but it is nevertheless decisively flawed. Its defect is not just a lack
+of rationality but a lack of utility as well. For such a theory simply
+aborts the aim of the cognitive enterprise—it impedes any prospect of
+gathering information.
+
+And so, denying thesis 1 affords the most readily available option. We
+must concede that philosophical thought can at best make a rough and
+imperfect approximation of adequacy—that reality refuses cognitive
+domestication, so that our best cognitive efforts represent a valiant
+but never totally satisfactory attempt to “get it right.” Such a
+position is not a radical scepticism that denies the availability of any
+and all useful information about reality, but a mitigated scepticism
+that insists that thought at best affords rough information about
+reality—not by way of definitive and indefeasible <span
+style="font-style:italic;">episteme</span>, but by way of a “rational
+belief” that is inevitably imperfect and defective (its rationality
+notwithstanding). An element of tentativeness should always attend our
+philosophical theories—we can never rest assured that they will not need
+to be revamped and shored up by our successors (quite to the contrary,
+we can count on it!).
+
+As this line of thought indicates, two basic goals set the scene for
+philosophical inquiry: (i) the urge to know, to secure answers to our
+questions, to enhance our cognitive resources, to enlarge our
+information, to extend the range of accepted theses, to fill up an
+intellectual vacuum. But this in the nature of the case—given the
+character of its “data”—inexorably leads to over-commitment, to
+informational overcrowding, to inconsistency. And now comes (ii), the
+urge to rationality: to have a coherent theory, to keep our commitments
+consistent and harmoniously coordinated. The first impetus is expansive
+and ampliative, the second contractive and eliminative. Both point in
+the direction of systematization, with its characteristic concern for
+comprehensiveness and harmonization.
+
+<span style="font-weight:bold;">Philosophy as Truth Estimation</span>
+
+As a venture in rational inquiry, philosophy seeks for the best
+available, the “rationally optimal,” answers to our
+information-in-handtranscending questions about how matters stand in the
+world. And experience-based conjecture—theorizing, if you will—is the
+most promising available instrument for question resolution in the face
+of imperfect information. It is a tool for use by finite intelligences,
+providing them not with the best <span
+style="font-style:italic;">possible</span> answer (in some rarified
+sense of this term), but with the best <span
+style="font-style:italic;">available</span> answer, the putative best
+that one can manage to secure in the actually existing conditions in
+which we do and must conduct our epistemic labors.
+
+In philosophy, as elsewhere throughout the domain of estimation, one
+confronts an inevitable risk of error. This risk takes two forms. On the
+one hand, we face errors of commission in possibly accepting what is
+false. On the other hand, we face errors of omission by failing to
+accept what is true. Like any other cognitive enterprise, philosophy has
+to navigate the difficult passage between ignorance and mistakes.
+
+Two equally unacceptable extremes offer themselves at this stage. That
+first is to accept nothing, to fall into pervasive scepticism. Here we
+achieve a total exemption from errors of commission—but unfortunately do
+so at the expense of endless errors of omission. The other extreme is to
+fall into pervasive gullibility, to accept pretty much everything that
+is put before us. Here we achieve a total exemption from errors of
+omission—but unfortunately do so at the expense of maximal errors of
+commission. In philosophy, as in other branches of rational inquiry, we
+must strive for the best available middle way—the best available
+balance. Though we realize that there are no guarantees, we do desire
+and require reasonable estimates.
+
+The need for such an estimative approach is easy to see. After all, we
+humans live in a world not of our making where we have to do the best we
+can with the limited means at our disposal. We must recognize that there
+is no prospect of assessing the truth—or presumptive truth—of claims (be
+they philosophical or scientific) independently of the use of our
+imperfect mechanisms of inquiry and systematization. And here it is
+<span style="font-style:italic;">estimation</span> that affords the best
+means for doing the job. We are not—and presumably will never be—in a
+position to stake totally secure claims to the definitive truth
+regarding those great issues of philosophical interest. But we certainly
+can—and indeed must—do the best we can to achieve a reasonable <span
+style="font-style:italic;">estimate</span> of the truth. We can and do
+<span style="font-style:italic;">aim</span> at the truth in our
+inquiries, even in circumstances where we cannot make foolproof
+pretensions to its attainment, and where we have no alternative but to
+settle for the <span style="font-style:italic;">best available
+estimate</span> of the truth of the matter—that estimate for which the
+best case can be made, according to the appropriate standards of
+rational cogency.
+
+Yet despite those guarding qualifications about feasibility and
+practicability, the “best available” answer at issue here is intended in
+a rather strong sense. We want not just an “answer” of some sort, but a
+viable and acceptable answer—one whose tenability we are willing to
+commit ourselves to. The rational conjecture at issue is not to be a
+product of <span style="font-style:italic;">mere guesswork,</span> but
+one of <span style="font-style:italic;">responsible estimation</span> in
+a strict sense of the term. It is not <span
+style="font-style:italic;">just</span> an estimate of the true answer
+that we want, but an estimate that is sensible and defensible: <span
+style="font-style:italic;">tenable</span>, in short. We may need to
+resort to more information than is actually given, but we do not want to
+make it up “out of thin air.” The provision of reasonable warrant for
+rational assurance is the object of the enterprise. Rational inquiry is
+a matter of doing no more—but also no less—than the best we can manage
+to realize in its prevailing epistemic circumstances. Nevertheless, the
+fact remains that the rationally indicated answer does in fact afford
+our most promising estimate of the true answer—that for whose acceptance
+as true the optimal overall case be constructed in the circumstances at
+hand.
+
+Now with regard to those “big issues” that constitute the agenda of
+philosophy, the systematization of otherwise available information is
+the best policy. And <span
+style="font-style:italic;">systematization</span> in the context of the
+available background information is nothing other than the process for
+making out this rationally best case. It is thus rational conjecture as
+based on and emerging from systematic considerations that is the key
+method of philosophical inquiry, affording our best hope for obtaining
+cogent answers to the questions that confront us in this domain. Let us
+consider more closely just what is involved here.
+
+<span style="font-weight:bold;">The Data of Philosophy</span>
+
+In philosophizing we strive for rational coherence in achieving answers
+to our questions. But how is one to proceed in this venture? It is clear
+that here, as in other branches of inquiry, we begin with data.
+
+Neither individually nor collectively do we humans begin our cognitive
+quest empty handed, equipped with only a blank tablet. Be it as single
+individuals or as entire generations, we always begin with a diversified
+cognitive heritage, falling heir to the great mass of information and
+misinformation of our predecessors—one must extend it. What William
+James called our “funded experience” of the world’s ways—of its nature
+and our place within it—constitute the <span
+style="font-style:italic;">data</span> at philosophy’s disposal in its
+endeavor to accomplish its question-resolving work. These specifically
+include:
+
+-   • Common-sense beliefs, common knowledge, and what have been “the
+    ordinary convictions of the plain man” since time immemorial;
+
+-   • The facts (or purported facts) afforded by the science of the day;
+    the views of well-informed “experts” and “authorities”;
+
+-   • The lessons we derive from our dealings with the world in everyday
+    life;
+
+-   • The received opinions that constitute the worldview of the day;
+    views that accord with the “spirit of the times” and the ambient
+    convictions of one’s cultural context;
+
+-   • Tradition, inherited lore, and ancestral wisdom (including
+    religious tradition);
+
+-   • The “teachings of history,” as best we can discern them.
+
+There is no clear limit to the scope of philosophy’s potentially useful
+data. The lessons of human experience in all of its cognitive dimensions
+afford the materials of philosophy. No plausible source of information
+about how matters stand in the world fails to bring grist to the mill.
+The whole range of the (purportedly) established “facts of experience”
+furnishes the extra-philosophical inputs for our philoso-phizing—the
+potentially usable materials, as it were, for our philosophical
+reflections.
+
+And all of these data have much to be said for them: common sense,
+tradition, general belief, and plausible prior theorizing—the sum total
+of the different sectors of “our experience.” They all merit
+consideration: all exert some degree of cognitive pressure in having a
+claim upon us. Yet, while those data deserve respect, they do not
+deserve acceptance. And they certainly do not constitute established
+knowledge. There is nothing sacred and sacrosanct about them. For, taken
+as a whole, the data are too much for tenability—collectively they
+generally run into conflicts and contradictions. The long and short of
+it is that the data of philosophy constitute a plethora of fact (or
+purported fact) so ample as to threaten to sink any ship that carries so
+heavy a cargo. The constraint they put upon us is thus not peremptory
+and absolute—they do not represent certainties to which we must cling to
+at all costs. Even the plainest of “plain facts” can be questioned, as
+indeed some of them must be, since in the aggregate they are
+collectively inconsistent.
+
+And this is the condition of philosophy’s data in general. For the
+philosopher, nothing is absolutely sacred. The difficulty is—and always
+has been—that the data of philosophy afford an embarrassment of riches.
+They engender a situation of cognitive over-commitment within which
+inconsistencies arise. For they are not only manifold and diversified
+but invariably yield discordant results. Taken altogether in their grand
+totality, the data are inconsistent. And here philosophy finds its work
+cut out for it.
+
+In philosophy, we cannot accept all those “givens” as certified facts
+that must be endorsed wholly and unqualifiedly. Every datum is
+defeasible. Anything might, in the final analysis, have to be abandoned,
+whatever its source: science, common sense, common knowledge, the whole
+lot. Those data are not truths but only plausibilities. Nothing about
+them is immune to criticism and possible rejection; everything is
+potentially at risk. One recent theorist writes: “No philosophical, or
+any other, theory can provide a view which violates common sense and
+remain logically consistent. For the truth of common sense is assumed by
+all theories.... This necessity to con
+
+form to common sense establishes a constraint upon the interpretations
+philosophical theories can offer.”<sup>7</sup> But this is very
+problematic. The landscape of philosophical history is littered with
+theories that tread common sense underfoot. There are no sacred cows in
+philosophy—common sense least of all. As philosophy goes about its work
+of rendering our beliefs coherent, something to which we are deeply
+attached will have to give, and we can never say at the outset where the
+blow will or will not fall. Systemic considerations may in the end lead
+to difficulties at any point.
+
+For these data do indeed all have some degree of merit and, given our
+cognitive situation, it would be very convenient if they turned out to
+be true. Philosophy cannot simply turn its back on these data without
+further ado. Its methodology must be one of damage control and salvage.
+For as regards those data, it should always be our goal to save as much
+as we coherently can.
+
+<span style="font-weight:bold;">Metaphilosophical Issues</span>
+
+To this point, the tenor of the discussion has been to offer a series of
+assertions along the lines of: this is what philosophy is; this is what
+philosophy does; this is how philosophizing works. But what justifies
+this way of talking? What reason is there to think that matters indeed
+stand as claimed?
+
+This is a question that can, in the final analysis, be answered only
+<span style="font-style:italic;">genetically</span>, by linking the
+response to and duly coordinating it with the historical facts about how
+philosophizing has actually been carried on over the years. What
+philosophy is all about is not writ large in the lineaments of theory,
+but it is something that must be gleaned from the inspectable realities
+of philosophical practice. And so, while the history of physics may be
+largely irrelevant for physicists, the history of philosophy is
+unavoidably relevant for philosophers. What philosophers <span
+style="font-style:italic;">should</span> do has to emerge from a
+critical analysis of what philosophers <span
+style="font-style:italic;">have been</span> doing. The history of
+philosophy is not a part of philosophy, but philosophy cannot get on
+without it.
+
+All the same, it is lamentable that now, more than two hundred years
+later, there are still philosophers whose modus operandi invites Kant’s
+classic complaint (at the start of the introduction of the <span
+style="font-style:italic;">Prolegomena</span>) that “there are scholarly
+men for whom the history of philosophy (both ancient and modern) is
+philosophy itself.” For the fact is that philosophy and history of
+philosophy <span style="font-style:italic;">address different
+ques-tions</span>—in the former instance, what is the case about an
+issue, and in the latter, what someone, <span
+style="font-style:italic;">X,</span> thought to be the case. To address
+the former question we must speak on our own account. A philosopher
+cannot be a commission agent trading in the doctrines of others; in the
+final analysis he or she must deal on his or her own account. There must
+be a shift from “<span style="font-style:italic;">X</span> thinks that
+<span style="font-style:italic;">A</span> is the answer to the question
+<span style="font-style:italic;">Q</span>” to the position that we
+ourselves are prepared to endorse for substantively cogent reasons. No
+amount of exposition and clarification regarding the thought of <span
+style="font-style:italic;">X</span> and of <span
+style="font-style:italic;">Y</span> will themselves answer the question
+on our agenda. To do so, we must decide not what people thought or meant
+but what is correct with respect to the issues. And so while the history
+of philosophy is indeed an indispensable instrument of philosophy—in a
+science of concepts, ideas, problems, issues, theories, and so on—these
+are no more than <span style="font-style:italic;">data</span> for our
+philosophizing. Actually to philosophize we must do more than note and
+consolidate such data, we must appraise and evaluate them on our own
+account. Philosophers must speak for themselves and conduct their
+business on their own account. They cannot hide themselves behind what
+<span style="font-style:italic;">X </span>thinks or what <span
+style="font-style:italic;">Y</span> thinks, but must in the end present
+a position of their own with respect to <span
+style="font-style:italic;">what is to be thought</span>. The history of
+philosophy is not—and cannot be—a substitute for philosophy itself.
+
+Nevertheless, the fact is that metaphilosophy—the study of the nature
+and methodology of the discipline—is also an integral component of
+philosophy. Unlike the situation with chemistry or with physiology,
+questions about the nature of philosophy belong to the discipline
+itself. And so, these questions about methodology cannot really be
+resolved by recourse to some sort of philosophy-neutral methodology.
+Only at the end of the day—only when we have pursued our philosophical
+inquiries to an adequate stage of development—will it become possible to
+see, with the wisdom of a more synoptic hindsight, as it were, that the
+selection of a methodological starting point was in fact proper and
+appropriate. It is part and parcel of the coherentist nature of
+philosophical method that our analysis must issue in smoothly
+self-supportive cycles and climates. Circularity in philosophical
+argumentation is not necessarily vicious. On the contrary, it can and
+should exhibit the ultimately self-sustaining nature of rational inquiry
+at large. Herein lies a key part of the reason why philosophy must be
+developed systematically—that is, as a system.
+
+If you cannot fit your philosophical contentions into a smooth systemic
+unison with what you otherwise know then there is something seriously
+amiss with them. To be sure, this does not mean that the discussion will
+not, here and there, be projected into contentions that are
+controversial and seemingly eccentric. For sometimes the best reason for
+adopting a controversial and apparently strange thesis is that it
+contributes significantly to the systemic coordination of the familiar
+by serving to unify and rationalize a mass of material, much of which
+seems comparatively unproblematic. For example, our basic thesis that
+philosophy exists to make sense of the things we know is far from being
+a philosophical truism. But that does not preclude its ultimate
+appropriations.
+
+The cardinal task of philosophy is thus to impart systemic order into
+the domain of relevant data; to render them consistent, compatible, and
+smoothly coordinated. Its commitment to instilling harmonious coherence
+into the manifold of our putative knowledge means that systematization
+is the prime and principal instrument of philosophical methodology. One
+might, in fact, define philosophy as the rational systematization of our
+thoughts on basic issues—the “basic principles” of our understanding of
+the world and our place within it. We become involved in philosophy in
+our endeavor to make systemic sense of the extraphilosophical
+“facts”—when we try to answer those big questions by systematizing what
+we think we know about the world, pushing our “knowledge” to its
+ultimate conclusions, and combining items usually kept in convenient
+separation. Philosophy is the policeman of thought, as it were, the
+agent for maintaining law and order in our cognitive endeavors.
